@@ -24,7 +24,7 @@ h3{
 
 
 --------------
-.internships{
+.projects{
 	width: 80%;
 	margin: auto;
 	text-align: center;
@@ -36,7 +36,7 @@ h3{
 	justify-content: space-between;
 }
 
-.internships-col{
+.projects-col{
 	flex-basis: 32%
 	background: #fff3f3;
 	box-sizing: border-box;
@@ -46,7 +46,7 @@ h3{
 	overflow: hidden;
 }
 
-.internships-col{
+.projects-col{
 	width: 100%;
 }
 
